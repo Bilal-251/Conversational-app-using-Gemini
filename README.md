@@ -1,4 +1,4 @@
-# Conversational-app-using-LangChain
+# Conversational-app-using-Gemini
 This is a simple Question Answering app made using Hugging Face and LangChain.This app uses a pretrained LLM for Answering tasks and Streamlit for frontend.
 
 # Installation and Usage
